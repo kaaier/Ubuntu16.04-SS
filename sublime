@@ -1,0 +1,15 @@
+```bash
+sudo apt-get update && sudo apt-get upgrade
+```
+
++ 克隆项目到本地 :
+
+```bash
+git clone https://github.com/lyfeyaj/sublime-text-imfix.git
+```
+
++ 运行脚本 :
+
+```bash
+cd sublime-text-imfix && ./sublime-imfix
+```
